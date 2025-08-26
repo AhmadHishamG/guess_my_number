@@ -13,5 +13,6 @@ The HTML/CSS were provided, and the JavaScript implementation was done by me whi
 ## Credits
 Project idea and front-end design: *The Complete JavaScript Course 2025* by Jonas Schmedtmann.  
 JavaScript implementation: my own, following along with the course.
+The redo part i implemnted fully on my own
 ## My Additions
 - Added a feature where the screen background turns red when the player loses.
